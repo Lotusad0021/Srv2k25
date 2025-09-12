@@ -300,9 +300,7 @@ if ($CreateUsers) {
             
         } catch {
             $errorCount++
-            $employeeName = if ($employee.Name) { $employee.Name } else { "Unknown" }
-            $errorMessage = if ($_.Exception.Message) { $_.Exception.Message } else { "Unknown error" }
-            Write-Warning "Error processing employee '$employeeName': $errorMessage"
+            Write-Warning "Error processing employee '$($employee.Name)': $($_.Exception.Message)"
         }
     }
     
