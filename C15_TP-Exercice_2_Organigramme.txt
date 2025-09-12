@@ -1,0 +1,447 @@
+Nordika solutions: organigramme hiérarchisé
+===========================================
+
+###################################################################################
+#### Direction Administrative et Financière, Ressources Humaines, Informatique ####
+###################################################################################
+
+Directeur Général : Amina El-Sayed
+│
+├── Direction Administrative et Financière (35)
+│ ├── Directeur Financier : Jean-Pierre Dubois
+│ │
+│ ├── Comptabilité (15)
+│ │ ├── Maria Gonzalez
+│ │ ├── Omar Benali
+│ │ ├── Chen Wei
+│ │ ├── Laura Schmidt
+│ │ ├── Samuel Okafor
+│ │ ├── Leila Haddad
+│ │ ├── Victor Hugo Mendes
+│ │ ├── Priya Sharma
+│ │ ├── Yuki Tanaka
+│ │ ├── Fatoumata Diallo
+│ │ ├── Ricardo Alvarez
+│ │ ├── Sofia Papadopoulos
+│ │ ├── Ahmed Mostafa
+│ │ ├── Elena Petrova
+│ │ └── James O’Connor
+│ │
+│ ├── Contrôle de gestion (10)
+│ │ ├── Thomas Müller
+│ │ ├── Elena Rossi
+│ │ ├── Khalid Hassan
+│ │ ├── Gabriela Torres
+│ │ ├── Mohammed Al-Khalifa
+│ │ ├── Diana Ivanova
+│ │ ├── Kwame Mensah
+│ │ ├── Isabelle Tremblay
+│ │ ├── Lucas Pereira
+│ │ └── Hannah Cohen
+│ │
+│ └── Trésorerie & Paie (10)
+│ ├── Paul N’Dour
+│ ├── Nadia Cherif
+│ ├── Steven Johnson
+│ ├── Min-Jae Park
+│ ├── Rania Soufi
+│ ├── Peter Novak
+│ ├── Teresa Delgado
+│ ├── Arjun Patel
+│ ├── Olga Morozova
+│ └── Mehdi Azzouz
+│
+├── Ressources Humaines (30)
+│ ├── Directrice RH : Claire Fontaine
+│ │
+│ ├── Recrutement (10)
+│ │ ├── Diego Fernandez
+│ │ ├── Sara Ibrahim
+│ │ ├── Benjamin Cohen
+│ │ ├── Aisha Yusuf
+│ │ ├── Vladislav Popov
+│ │ ├── Emily Brown
+│ │ ├── Mariana Costa
+│ │ ├── David Kim
+│ │ ├── Pauline Dubois
+│ │ └── Mohammed Rahman
+│ │
+│ ├── Formation & Développement (10)
+│ │ ├── Laura Caruso
+│ │ ├── Zhang Li
+│ │ ├── Fatima Zahra Idrissi
+│ │ ├── Georges Nader
+│ │ ├── Ivana Kovac
+│ │ ├── Samuel Green
+│ │ ├── Sofia Lopez
+│ │ ├── Yasmin Abdelrahman
+│ │ ├── Antoine Lavoie
+│ │ └── Noor Al-Masri
+│ │
+│ └── Administration du personnel (10)
+│ ├── Jonas Bergström
+│ ├── Cecilia Alvarez
+│ ├── Hamza Ouattara
+│ ├── Anna Kowalska
+│ ├── Jean-Luc Martin
+│ ├── Maria Petrova
+│ ├── Jorge Silva
+│ ├── Sarah Williams
+│ ├── Ahmed Jalloh
+│ └── Keiko Nakamura
+│
+├── Informatique (40)
+│ ├── Directeur Informatique : Karim Bensalem
+│ │
+│ ├── Développement logiciels (15)
+│ │ ├── Nicolas Laurent
+│ │ ├── Ananya Gupta
+│ │ ├── Hassan Jaber
+│ │ ├── Tatiana Smirnova
+│ │ ├── Rodrigo Almeida
+│ │ ├── Mary Johnson
+│ │ ├── Abdoulaye Konaté
+│ │ ├── Sophie Lambert
+│ │ ├── Takeshi Sato
+│ │ ├── Helena Novak
+│ │ ├── Bilal El-Masri
+│ │ ├── Diana Torres
+│ │ ├── Jonas Müller
+│ │ ├── Farida Amrani
+│ │ └── Ethan Williams
+│ │
+│ ├── Support technique (15)
+│ │ ├── Marc-André Gagnon
+│ │ ├── Nourhan Saad
+│ │ ├── Javier Morales
+│ │ ├── Chiara Romano
+│ │ ├── Samuel Adeyemi
+│ │ ├── Elena Petrova
+│ │ ├── William Smith
+│ │ ├── Amira Khalil
+│ │ ├── George Papadakis
+│ │ ├── Lucia Fernández
+│ │ ├── Igor Volkov
+│ │ ├── Sarah Ahmed
+│ │ ├── David Osei
+│ │ ├── Clara Dupont
+│ │ └── Abdullah Al-Farsi
+│ │
+│ └── Réseaux & sécurité (10)
+│ ├── Mohammed Issa
+│ ├── Jean-François Moreau
+│ ├── Chen Ming
+│ ├── Diana Costa
+│ ├── Samuel Baraka
+│ ├── Rana Khaled
+│ ├── Omar Touati
+│ ├── Viktor Horváth
+│ ├── Hassan Bouzid
+│ └── Laura Smith
+
+###################################################################################
+########################## Ventes, Marketing, Production ##########################
+###################################################################################
+
+├── Ventes (40)
+│ ├── Directeur Commercial : Louis Bernard
+│ │
+│ ├── Équipe Grands Comptes (15)
+│ │ ├── Helena Rodrigues
+│ │ ├── Mohamed Chérif
+│ │ ├── Isabella Rossi
+│ │ ├── Daniel Johnson
+│ │ ├── Ahmed Al-Mutairi
+│ │ ├── Claire Gagné
+│ │ ├── Jonas Eriksson
+│ │ ├── Farah El-Baz
+│ │ ├── Pedro Gonzalez
+│ │ ├── Sarah Müller
+│ │ ├── Emmanuel Ofori
+│ │ ├── Natalia Karpova
+│ │ ├── Omar Sylla
+│ │ ├── Jing Zhao
+│ │ └── Patrick O’Donnell
+│ │
+│ ├── Équipe PME (15)
+│ │ ├── Marina Costa
+│ │ ├── Hamid Zayani
+│ │ ├── Gabrielle Lefebvre
+│ │ ├── Alexei Volkov
+│ │ ├── David Mensah
+│ │ ├── Sandra Jimenez
+│ │ ├── Khaled Youssef
+│ │ ├── Lina Haddad
+│ │ ├── Marco Bianchi
+│ │ ├── Chen Yu
+│ │ ├── Rosa Fernandez
+│ │ ├── Samuel Dubois
+│ │ ├── Fatou Ndiaye
+│ │ ├── Jonas Karlsson
+│ │ └── Emily Clarke
+│ │
+│ └── Administration des ventes (10)
+│ ├── Ahmed Ibrahim
+│ ├── Leila Cohen
+│ ├── Thomas Dubreuil
+│ ├── Diana Popescu
+│ ├── Karim Mansouri
+│ ├── Sofia Dimitrova
+│ ├── William Harris
+│ ├── Nuria Alvarez
+│ ├── Igor Petrov
+│ └── Naïma El-Khaldi
+│
+├── Marketing (35)
+│ ├── Directrice Marketing : Isabelle Morel
+│ │
+│ ├── Communication & Image (12)
+│ │ ├── Anna Petrova
+│ │ ├── Karim Abdallah
+│ │ ├── Lucia Romano
+│ │ ├── Peter O’Neill
+│ │ ├── Jamila Benyahia
+│ │ ├── Marc Lefèvre
+│ │ ├── Diana Georgieva
+│ │ ├── Mohammed Said
+│ │ ├── Emma Johansson
+│ │ ├── Jorge Mendes
+│ │ ├── Laila Hassan
+│ │ └── Samuel Cohen
+│ │
+│ ├── Études de marché (12)
+│ │ ├── Farida Khalil
+│ │ ├── Vincent Tremblay
+│ │ ├── Awa Diouf
+│ │ ├── Andrei Popa
+│ │ ├── Rosa Martinez
+│ │ ├── Saïd El-Mansouri
+│ │ ├── Katarzyna Nowak
+│ │ ├── James Brown
+│ │ ├── Lin Qiao
+│ │ ├── Ahmed Noor
+│ │ ├── Claudia Schneider
+│ │ └── Juan Pablo Reyes
+│ │
+│ └── Digital & Réseaux sociaux (11)
+│ ├── Sofia Rojas
+│ ├── Bilal Kacem
+│ ├── David Laurent
+│ ├── Alina Ivanova
+│ ├── Victor Manuel Silva
+│ ├── Zineb Othmani
+│ ├── Kevin Martin
+│ ├── Maya Kapoor
+│ ├── Samuel Johnson
+│ ├── Olga Sokolova
+│ └── Ahmed El-Fassi
+│
+├── Production (50)
+│ ├── Directeur Production : Jean-Marc Dupuis
+│ │
+│ ├── Atelier A (20)
+│ │ ├── Maria Lopez
+│ │ ├── Karim Haddadi
+│ │ ├── Igor Ivanov
+│ │ ├── Sandra Torres
+│ │ ├── Hassan Moussa
+│ │ ├── Laura Becker
+│ │ ├── Kwame Boateng
+│ │ ├── Sophie Martin
+│ │ ├── Omar Boukhari
+│ │ ├── Rodrigo Pereira
+│ │ ├── Natalia Petrova
+│ │ ├── Mamadou Diallo
+│ │ ├── Anna Johansson
+│ │ ├── Samuel Ndiaye
+│ │ ├── Elena Kovalenko
+│ │ ├── Miguel Fernandez
+│ │ ├── Rania Hachem
+│ │ ├── Thomas Keller
+│ │ ├── Ahmed Mahmoud
+│ │ └── Ines Gonzalez
+│ │
+│ ├── Atelier B (15)
+│ │ ├── Fatima Zahra Bennis
+│ │ ├── Jean-Luc Robert
+│ │ ├── Mohamed Ould Salem
+│ │ ├── Yara Al-Hassan
+│ │ ├── Pavel Smirnov
+│ │ ├── Marta Kowalska
+│ │ ├── Julien Moreau
+│ │ ├── Aminata Sow
+│ │ ├── Peter Schmidt
+│ │ ├── Salma Chafik
+│ │ ├── Karim El-Haj
+│ │ ├── Helena Petrova
+│ │ ├── Wilson Carvalho
+│ │ ├── Aisha Mohamed
+│ │ └── Georges Lambert
+│ │
+│ └── Qualité & Maintenance (15)
+│ ├── Nadia Rachedi
+│ ├── Ali Soumare
+│ ├── Claire Dubois
+│ ├── Ahmed Cherkaoui
+│ ├── Viktor Petrovic
+│ ├── Laura Nascimento
+│ ├── Mustapha El Idrissi
+│ ├── Chiara Conti
+│ ├── Jonas Fischer
+│ ├── Sarah Abadi
+│ ├── Jorge Castillo
+│ ├── Amel Haddad
+│ ├── Daniel Oliveira
+│ ├── Anis Bouziane
+│ └── Camille Bernard
+
+###################################################################################
+############## Recherche & Développement, Logistique, Service Client ##############
+###################################################################################
+
+├── Recherche & Développement (40)
+│ ├── Directeur R&D : François Leclerc
+│ │
+│ ├── Innovation produits (15)
+│ │ ├── Yasmine El-Khatib
+│ │ ├── David Rosenberg
+│ │ ├── Chiara Bianchi
+│ │ ├── Mohammed Idrissi
+│ │ ├── Javier Ortega
+│ │ ├── Svetlana Ivanova
+│ │ ├── Samuel Adams
+│ │ ├── Aya Nakamura
+│ │ ├── Gabriel Torres
+│ │ ├── Loubna Benyahia
+│ │ ├── Michael Anderson
+│ │ ├── Paula Fernandez
+│ │ ├── Alioune Diop
+│ │ ├── Katarina Novak
+│ │ └── Jean-Pierre Giraud
+│ │
+│ ├── Recherche fondamentale (15)
+│ │ ├── Tomasz Nowak
+│ │ ├── Salma El-Mansour
+│ │ ├── John Miller
+│ │ ├── Farouk Amrani
+│ │ ├── Lucia Marino
+│ │ ├── Chen Xia
+│ │ ├── Amina Soufi
+│ │ ├── Viktor Pavlov
+│ │ ├── Gabrielle Tremblay
+│ │ ├── Said Bouzid
+│ │ ├── Helena Stojanovic
+│ │ ├── Khaled Daghmoumi
+│ │ ├── Yara Al-Sabah
+│ │ ├── Diego Morales
+│ │ └── Sophie Laurent
+│ │
+│ └── Prototypage & Tests (10)
+│ ├── Karim Mouline
+│ ├── Fatou Keita
+│ ├── Jan Kowalski
+│ ├── Leila Hamdan
+│ ├── Daniel Novak
+│ ├── Amine Boukhari
+│ ├── Laura Thompson
+│ ├── Omar Khalil
+│ ├── Ali Rezai
+│ └── Hannah Green
+│
+├── Logistique (40)
+│ ├── Directeur Logistique : Patrick Girard
+│ │
+│ ├── Approvisionnement (15)
+│ │ ├── Ahmed Mansour
+│ │ ├── Rosa Delgado
+│ │ ├── Tomas Eriksson
+│ │ ├── Zineb Lahlou
+│ │ ├── Khalil Abdou
+│ │ ├── Marta Silva
+│ │ ├── Peter Hansen
+│ │ ├── Noor Zahra
+│ │ ├── Joseph Mensah
+│ │ ├── Anna Müller
+│ │ ├── Samuel Haddad
+│ │ ├── Diana Morales
+│ │ ├── Georges Roux
+│ │ ├── Paulina Kowalczyk
+│ │ └── Elias Haddad
+│ │
+│ ├── Gestion d’entrepôt (15)
+│ │ ├── Julien Mercier
+│ │ ├── Karim Chafik
+│ │ ├── Fatima El Amrani
+│ │ ├── Pedro Ribeiro
+│ │ ├── Lucia Petrova
+│ │ ├── Mustapha Saidi
+│ │ ├── Laura Costa
+│ │ ├── David Wilson
+│ │ ├── Hicham Ouali
+│ │ ├── Ivana Milosevic
+│ │ ├── Samuel Johnson
+│ │ ├── Nadia Khalaf
+│ │ ├── Omar Jaziri
+│ │ ├── Ines Boukhari
+│ │ └── Jorge Carvalho
+│ │
+│ └── Transport & Distribution (10)
+│ ├── Abdelaziz Benyounes
+│ ├── Sofia Romano
+│ ├── Ali Hassan
+│ ├── Kevin Dubois
+│ ├── Nour Benali
+│ ├── Hassan Ouattara
+│ ├── Georges Martin
+│ ├── Emilia Rossi
+│ ├── Mohamed Badr
+│ └── Jonas Lindberg
+│
+└── Service Client (40)
+├── Directrice Service Client : Nadine Charpentier
+│
+├── Centre d’appels (15)
+│ ├── Khaled Ahmed
+│ ├── Laura Fernandez
+│ ├── Fatou Cissé
+│ ├── David Park
+│ ├── Amira Hussein
+│ ├── Jorge Lopez
+│ ├── Inga Petrovna
+│ ├── Mohamed Jaziri
+│ ├── Emily Carter
+│ ├── Mamadou Sow
+│ ├── Anna Rossi
+│ ├── Pedro Alvarez
+│ ├── Souad Rahmani
+│ ├── Samuel Clarke
+│ └── Chen Hao
+│
+├── Assistance technique (15)
+│ ├── Omar Bouzid
+│ ├── Sandra Muller
+│ ├── Khalil Ait Benali
+│ ├── Natalia Ivanova
+│ ├── George Williams
+│ ├── Sofia Costa
+│ ├── Youssef Karim
+│ ├── Layla Hamza
+│ ├── Pedro Silva
+│ ├── Amina El-Haj
+│ ├── James Robinson
+│ ├── Nour Chami
+│ ├── Elias Papadakis
+│ ├── Amadou Bah
+│ └── Lina Haddad
+│
+└── Gestion réclamations (10)
+├── Pauline Martin
+├── Hassan Ould Ali
+├── Sofia Jimenez
+├── Jean-Paul Lefèvre
+├── Amal Benjelloun
+├── Jonas Becker
+├── Khaled Mounir
+├── Gabriela Sousa
+├── Mehdi Zayani
+└── Emma Wilson
