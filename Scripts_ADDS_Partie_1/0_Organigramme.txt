@@ -1,0 +1,72 @@
+Zitouna: organigramme hiérarchisé
+=================================
+
+Direction Générale
+├── PDG : Amine Zitouni
+│   └── Assistante de direction : Laura Fernández
+│
+├── Service Comptabilité (6)
+│   ├── Responsable comptable : Hiroshi Tanaka
+│   └── Comptables
+│       ├── Amina Diop
+│       ├── Jean Dupont
+│       ├── Priya Sharma
+│       ├── Lucas Meyer
+│       └── Fatima El Haddad
+│
+├── Service Ventes (15)
+│   ├── Responsable commercial : Carlos Oliveira
+│   └── Commerciaux
+│       ├── Emily Johnson
+│       ├── Zhang Wei
+│       ├── Omar Al-Sayed
+│       ├── Sophie Dubois
+│       ├── Paolo Rossi
+│       ├── Yuki Nakamura
+│       ├── Ahmed Khan
+│       ├── Lina Svensson
+│       ├── Pedro González
+│       ├── Noura Khalil
+│       ├── David Brown
+│       ├── Chloe Martin
+│       ├── Igor Petrov
+│       └── Tatiana Ivanova
+│
+├── Service Logistique (12)
+│   ├── Responsable logistique : Kwame Mensah
+│   └── Agents logistiques
+│       ├── Ali Reza
+│       ├── Maria Popescu
+│       ├── Samuel Kim
+│       ├── Helena Schmidt
+│       ├── Moussa Traoré
+│       ├── Gabriela Silva
+│       ├── John Smith
+│       ├── Aisha Noor
+│       ├── Anton Johansson
+│       ├── Nina Kowalski
+│       └── Ricardo Santos
+│
+├── Service Informatique (5)
+│   ├── Responsable IT : Michael O’Connor
+│   └── Techniciens
+│       ├── Chen Li
+│       ├── Sophia Martinez
+│       ├── Youssef Amrani
+│       └── Olga Novák
+│
+├── Service Ressources Humaines (5)
+│   ├── Responsable RH : Sara Ahmed
+│   └── Assistants RH
+│       ├── Benjamin White
+│       ├── Hannah Müller
+│       ├── Thiago Costa
+│       └── Aya Yamamoto
+│
+└── Service Achats (5)
+    ├── Responsable achats : Isabelle Laurent
+    └── Acheteurs
+        ├── Rajesh Patel
+        ├── Fatoumata Keita
+        ├── Diego Torres
+        └── Anna Ivanova

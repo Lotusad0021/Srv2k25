@@ -1,0 +1,13 @@
+Nom de l'étendue DHCP: Emica
+Suffixe propre à la connexion: emica.lan
+Adresse Réseau: 10.10.10.0
+Masque Subnet: /24 --> 255.255.255.0
+Routeur/Passerelle: 10.10.10.1
+DNS1: 10.10.10.2
+DNS2: 1.1.1.1
+Plage d'exclusion: 10.10.10.1 à 10.10.10.10
+Plage de distribution: 10.10.10.11 à 10.10.10.254
+Plage de réservation: RIEN
+Première Adresse Dispo: 10.10.10.11
+Dernière Adresse Dispo: 10.10.10.254
+Durée du bail: 7 Jours
