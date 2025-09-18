@@ -1,0 +1,361 @@
+Name,Position,Department,Sub_Department,Reports_To,Employee_Count_In_Unit
+Amina El-Sayed,Directeur Général,Direction Générale,,,"375"
+Jean-Pierre Dubois,Directeur Financier,Direction Administrative et Financière,,Amina El-Sayed,35
+Maria Gonzalez,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Omar Benali,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Chen Wei,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Laura Schmidt,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Samuel Okafor,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Leila Haddad,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Victor Hugo Mendes,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Priya Sharma,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Yuki Tanaka,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Fatoumata Diallo,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Ricardo Alvarez,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Sofia Papadopoulos,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Ahmed Mostafa,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Elena Petrova,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+James O'Connor,Employee,Direction Administrative et Financière,Comptabilité,Jean-Pierre Dubois,15
+Thomas Müller,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Elena Rossi,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Khalid Hassan,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Gabriela Torres,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Mohammed Al-Khalifa,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Diana Ivanova,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Kwame Mensah,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Isabelle Tremblay,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Lucas Pereira,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Hannah Cohen,Employee,Direction Administrative et Financière,Contrôle de gestion,Jean-Pierre Dubois,10
+Paul N'Dour,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Nadia Cherif,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Steven Johnson,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Min-Jae Park,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Rania Soufi,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Peter Novak,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Teresa Delgado,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Arjun Patel,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Olga Morozova,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Mehdi Azzouz,Employee,Direction Administrative et Financière,Trésorerie & Paie,Jean-Pierre Dubois,10
+Claire Fontaine,Directrice RH,Ressources Humaines,,Amina El-Sayed,30
+Diego Fernandez,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Sara Ibrahim,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Benjamin Cohen,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Aisha Yusuf,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Vladislav Popov,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Emily Brown,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Mariana Costa,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+David Kim,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Pauline Dubois,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Mohammed Rahman,Employee,Ressources Humaines,Recrutement,Claire Fontaine,10
+Laura Caruso,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Zhang Li,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Fatima Zahra Idrissi,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Georges Nader,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Ivana Kovac,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Samuel Green,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Sofia Lopez,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Yasmin Abdelrahman,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Antoine Lavoie,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Noor Al-Masri,Employee,Ressources Humaines,Formation & Développement,Claire Fontaine,10
+Jonas Bergström,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Cecilia Alvarez,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Hamza Ouattara,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Anna Kowalska,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Jean-Luc Martin,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Maria Petrova,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Jorge Silva,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Sarah Williams,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Ahmed Jalloh,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Keiko Nakamura,Employee,Ressources Humaines,Administration du personnel,Claire Fontaine,10
+Karim Bensalem,Directeur Informatique,Informatique,,Amina El-Sayed,40
+Nicolas Laurent,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Ananya Gupta,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Hassan Jaber,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Tatiana Smirnova,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Rodrigo Almeida,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Mary Johnson,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Abdoulaye Konaté,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Sophie Lambert,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Takeshi Sato,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Helena Novak,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Bilal El-Masri,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Diana Torres,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Jonas Müller,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Farida Amrani,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Ethan Williams,Employee,Informatique,Développement logiciels,Karim Bensalem,15
+Marc-André Gagnon,Employee,Informatique,Support technique,Karim Bensalem,15
+Nourhan Saad,Employee,Informatique,Support technique,Karim Bensalem,15
+Javier Morales,Employee,Informatique,Support technique,Karim Bensalem,15
+Chiara Romano,Employee,Informatique,Support technique,Karim Bensalem,15
+Samuel Adeyemi,Employee,Informatique,Support technique,Karim Bensalem,15
+Elena Petrova,Employee,Informatique,Support technique,Karim Bensalem,15
+William Smith,Employee,Informatique,Support technique,Karim Bensalem,15
+Amira Khalil,Employee,Informatique,Support technique,Karim Bensalem,15
+George Papadakis,Employee,Informatique,Support technique,Karim Bensalem,15
+Lucia Fernández,Employee,Informatique,Support technique,Karim Bensalem,15
+Igor Volkov,Employee,Informatique,Support technique,Karim Bensalem,15
+Sarah Ahmed,Employee,Informatique,Support technique,Karim Bensalem,15
+David Osei,Employee,Informatique,Support technique,Karim Bensalem,15
+Clara Dupont,Employee,Informatique,Support technique,Karim Bensalem,15
+Abdullah Al-Farsi,Employee,Informatique,Support technique,Karim Bensalem,15
+Mohammed Issa,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Jean-François Moreau,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Chen Ming,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Diana Costa,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Samuel Baraka,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Rana Khaled,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Omar Touati,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Viktor Horváth,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Hassan Bouzid,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Laura Smith,Employee,Informatique,Réseaux & sécurité,Karim Bensalem,10
+Louis Bernard,Directeur Commercial,Ventes,,Amina El-Sayed,40
+Helena Rodrigues,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Mohamed Chérif,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Isabella Rossi,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Daniel Johnson,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Ahmed Al-Mutairi,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Claire Gagné,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Jonas Eriksson,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Farah El-Baz,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Pedro Gonzalez,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Sarah Müller,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Emmanuel Ofori,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Natalia Karpova,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Omar Sylla,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Jing Zhao,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Patrick O'Donnell,Employee,Ventes,Équipe Grands Comptes,Louis Bernard,15
+Marina Costa,Employee,Ventes,Équipe PME,Louis Bernard,15
+Hamid Zayani,Employee,Ventes,Équipe PME,Louis Bernard,15
+Gabrielle Lefebvre,Employee,Ventes,Équipe PME,Louis Bernard,15
+Alexei Volkov,Employee,Ventes,Équipe PME,Louis Bernard,15
+David Mensah,Employee,Ventes,Équipe PME,Louis Bernard,15
+Sandra Jimenez,Employee,Ventes,Équipe PME,Louis Bernard,15
+Khaled Youssef,Employee,Ventes,Équipe PME,Louis Bernard,15
+Lina Haddad,Employee,Ventes,Équipe PME,Louis Bernard,15
+Marco Bianchi,Employee,Ventes,Équipe PME,Louis Bernard,15
+Chen Yu,Employee,Ventes,Équipe PME,Louis Bernard,15
+Rosa Fernandez,Employee,Ventes,Équipe PME,Louis Bernard,15
+Samuel Dubois,Employee,Ventes,Équipe PME,Louis Bernard,15
+Fatou Ndiaye,Employee,Ventes,Équipe PME,Louis Bernard,15
+Jonas Karlsson,Employee,Ventes,Équipe PME,Louis Bernard,15
+Emily Clarke,Employee,Ventes,Équipe PME,Louis Bernard,15
+Ahmed Ibrahim,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Leila Cohen,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Thomas Dubreuil,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Diana Popescu,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Karim Mansouri,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Sofia Dimitrova,Employee,Ventes,Administration des ventes,Louis Bernard,10
+William Harris,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Nuria Alvarez,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Igor Petrov,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Naïma El-Khaldi,Employee,Ventes,Administration des ventes,Louis Bernard,10
+Isabelle Morel,Directrice Marketing,Marketing,,Amina El-Sayed,35
+Anna Petrova,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Karim Abdallah,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Lucia Romano,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Peter O'Neill,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Jamila Benyahia,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Marc Lefèvre,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Diana Georgieva,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Mohammed Said,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Emma Johansson,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Jorge Mendes,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Laila Hassan,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Samuel Cohen,Employee,Marketing,Communication & Image,Isabelle Morel,12
+Farida Khalil,Employee,Marketing,Études de marché,Isabelle Morel,12
+Vincent Tremblay,Employee,Marketing,Études de marché,Isabelle Morel,12
+Awa Diouf,Employee,Marketing,Études de marché,Isabelle Morel,12
+Andrei Popa,Employee,Marketing,Études de marché,Isabelle Morel,12
+Rosa Martinez,Employee,Marketing,Études de marché,Isabelle Morel,12
+Saïd El-Mansouri,Employee,Marketing,Études de marché,Isabelle Morel,12
+Katarzyna Nowak,Employee,Marketing,Études de marché,Isabelle Morel,12
+James Brown,Employee,Marketing,Études de marché,Isabelle Morel,12
+Lin Qiao,Employee,Marketing,Études de marché,Isabelle Morel,12
+Ahmed Noor,Employee,Marketing,Études de marché,Isabelle Morel,12
+Claudia Schneider,Employee,Marketing,Études de marché,Isabelle Morel,12
+Juan Pablo Reyes,Employee,Marketing,Études de marché,Isabelle Morel,12
+Sofia Rojas,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Bilal Kacem,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+David Laurent,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Alina Ivanova,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Victor Manuel Silva,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Zineb Othmani,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Kevin Martin,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Maya Kapoor,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Samuel Johnson,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Olga Sokolova,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Ahmed El-Fassi,Employee,Marketing,Digital & Réseaux sociaux,Isabelle Morel,11
+Jean-Marc Dupuis,Directeur Production,Production,,Amina El-Sayed,50
+Maria Lopez,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Karim Haddadi,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Igor Ivanov,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Sandra Torres,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Hassan Moussa,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Laura Becker,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Kwame Boateng,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Sophie Martin,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Omar Boukhari,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Rodrigo Pereira,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Natalia Petrova,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Mamadou Diallo,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Anna Johansson,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Samuel Ndiaye,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Elena Kovalenko,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Miguel Fernandez,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Rania Hachem,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Thomas Keller,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Ahmed Mahmoud,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Ines Gonzalez,Employee,Production,Atelier A,Jean-Marc Dupuis,20
+Fatima Zahra Bennis,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Jean-Luc Robert,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Mohamed Ould Salem,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Yara Al-Hassan,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Pavel Smirnov,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Marta Kowalska,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Julien Moreau,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Aminata Sow,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Peter Schmidt,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Salma Chafik,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Karim El-Haj,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Helena Petrova,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Wilson Carvalho,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Aisha Mohamed,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Georges Lambert,Employee,Production,Atelier B,Jean-Marc Dupuis,15
+Nadia Rachedi,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Ali Soumare,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Claire Dubois,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Ahmed Cherkaoui,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Viktor Petrovic,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Laura Nascimento,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Mustapha El Idrissi,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Chiara Conti,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Jonas Fischer,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Sarah Abadi,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Jorge Castillo,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Amel Haddad,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Daniel Oliveira,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Anis Bouziane,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+Camille Bernard,Employee,Production,Qualité & Maintenance,Jean-Marc Dupuis,15
+François Leclerc,Directeur R&D,Recherche & Développement,,Amina El-Sayed,40
+Yasmine El-Khatib,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+David Rosenberg,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Chiara Bianchi,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Mohammed Idrissi,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Javier Ortega,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Svetlana Ivanova,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Samuel Adams,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Aya Nakamura,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Gabriel Torres,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Loubna Benyahia,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Michael Anderson,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Paula Fernandez,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Alioune Diop,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Katarina Novak,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Jean-Pierre Giraud,Employee,Recherche & Développement,Innovation produits,François Leclerc,15
+Tomasz Nowak,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Salma El-Mansour,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+John Miller,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Farouk Amrani,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Lucia Marino,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Chen Xia,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Amina Soufi,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Viktor Pavlov,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Gabrielle Tremblay,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Said Bouzid,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Helena Stojanovic,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Khaled Daghmoumi,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Yara Al-Sabah,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Diego Morales,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Sophie Laurent,Employee,Recherche & Développement,Recherche fondamentale,François Leclerc,15
+Karim Mouline,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Fatou Keita,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Jan Kowalski,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Leila Hamdan,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Daniel Novak,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Amine Boukhari,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Laura Thompson,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Omar Khalil,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Ali Rezai,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Hannah Green,Employee,Recherche & Développement,Prototypage & Tests,François Leclerc,10
+Patrick Girard,Directeur Logistique,Logistique,,Amina El-Sayed,40
+Ahmed Mansour,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Rosa Delgado,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Tomas Eriksson,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Zineb Lahlou,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Khalil Abdou,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Marta Silva,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Peter Hansen,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Noor Zahra,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Joseph Mensah,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Anna Müller,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Samuel Haddad,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Diana Morales,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Georges Roux,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Paulina Kowalczyk,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Elias Haddad,Employee,Logistique,Approvisionnement,Patrick Girard,15
+Julien Mercier,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Karim Chafik,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Fatima El Amrani,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Pedro Ribeiro,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Lucia Petrova,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Mustapha Saidi,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Laura Costa,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+David Wilson,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Hicham Ouali,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Ivana Milosevic,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Samuel Johnson,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Nadia Khalaf,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Omar Jaziri,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Ines Boukhari,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Jorge Carvalho,Employee,Logistique,Gestion d'entrepôt,Patrick Girard,15
+Abdelaziz Benyounes,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Sofia Romano,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Ali Hassan,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Kevin Dubois,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Nour Benali,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Hassan Ouattara,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Georges Martin,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Emilia Rossi,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Mohamed Badr,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Jonas Lindberg,Employee,Logistique,Transport & Distribution,Patrick Girard,10
+Nadine Charpentier,Directrice Service Client,Service Client,,Amina El-Sayed,40
+Khaled Ahmed,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Laura Fernandez,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Fatou Cissé,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+David Park,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Amira Hussein,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Jorge Lopez,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Inga Petrovna,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Mohamed Jaziri,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Emily Carter,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Mamadou Sow,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Anna Rossi,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Pedro Alvarez,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Souad Rahmani,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Samuel Clarke,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Chen Hao,Employee,Service Client,Centre d'appels,Nadine Charpentier,15
+Omar Bouzid,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Sandra Muller,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Khalil Ait Benali,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Natalia Ivanova,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+George Williams,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Sofia Costa,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Youssef Karim,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Layla Hamza,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Pedro Silva,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Amina El-Haj,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+James Robinson,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Nour Chami,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Elias Papadakis,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Amadou Bah,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Lina Haddad,Employee,Service Client,Assistance technique,Nadine Charpentier,15
+Pauline Martin,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Hassan Ould Ali,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Sofia Jimenez,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Jean-Paul Lefèvre,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Amal Benjelloun,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Jonas Becker,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Khaled Mounir,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Gabriela Sousa,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Mehdi Zayani,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10
+Emma Wilson,Employee,Service Client,Gestion réclamations,Nadine Charpentier,10

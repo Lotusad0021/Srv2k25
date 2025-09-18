@@ -1,0 +1,106 @@
+########################################################
+# Configuration réseau et rôles Windows Server
+########################################################
+
+# Restart-Computer -Force
+# Sauvegarde windows server 
+# Services de fichiers et de stockage   |   Serveur de fichiers
+
+
+# Outil dadiministration de seveur distant (Fonctionnalite) 
+
+# Role  |  Serveur dimpression
+
+# FQDN  |  SRV-DC.SRVHOME.LAN
+
+#  Micro bac , polytechnique ,   Cyber Securité , reseau, 
+
+# Webmail server
+
+
+#############################################
+# CONFIGURATION IP STATIQUE
+#############################################
+
+# Récupérer l'index de l'interface réseau active
+$InterfaceIndex = (Get-NetAdapter | Where-Object {$_.Status -eq "Up"}).InterfaceIndex
+
+# Configuration IP statique
+New-NetIPAddress -InterfaceIndex $InterfaceIndex -IPAddress "192.168.2.4" -PrefixLength 24 -DefaultGateway "192.168.2.1"
+Set-DnsClientServerAddress -InterfaceIndex $InterfaceIndex -ServerAddresses ("192.168.2.4", "8.8.8.8")
+
+#############################################
+# INSTALLATION DES RÔLES ET FONCTIONNALITÉS
+#############################################
+
+# Liste des rôles essentiels à installer
+$features = @(
+    "AD-Domain-Services",          # Services AD DS
+    "DNS",                         # Service DNS
+    "DHCP",                        # Service DHCP
+    "Print-Services",              # Services d'impression
+    "Print-Scan-Server",           # Services de numérisation de documents
+    "FileAndStorage-Services",     # Services de fichiers et de stockage
+    "File-Services",               # Services de fichiers complets
+    "Storage-Services",            # Services de stockage
+    "WDS"                          # Services de déploiement Windows
+)
+
+# Installation des rôles et fonctionnalités avec outils de gestion
+Install-WindowsFeature -Name $features -IncludeManagementTools
+
+#############################################
+# CONFIGURATION DHCP
+#############################################
+
+# Autorisation du serveur DHCP dans Active Directory
+Add-DhcpServerInDC -DnsName "SRVHOME.domain.local" -IPAddress "192.168.2.4"
+
+# Création de l'étendue DHCP
+Add-DhcpServerv4Scope -Name "Réseau LAN" -StartRange "192.168.2.100" -EndRange "192.168.2.200" `
+    -SubnetMask "255.255.255.0" -Description "Plage d'adresses pour le réseau local"
+
+# Configuration des options DHCP
+Set-DhcpServerv4OptionValue -ScopeId "192.168.2.0" -Router "192.168.2.1" -DnsServer "192.168.2.4" -DnsDomain "domain.local"
+Add-DhcpServerv4ExclusionRange -ScopeId "192.168.2.0" -StartRange "192.168.2.1" -EndRange "192.168.2.10"
+
+#############################################
+# PROMOTION CONTRÔLEUR DE DOMAINE
+#############################################
+
+# Création d'une nouvelle forêt/domaine
+$SecurePassword = ConvertTo-SecureString "Annexe123!" -AsPlainText -Force
+
+Install-ADDSForest `
+    -DomainName "domain.local" `
+    -DomainNetbiosName "DOMAIN" `
+    -ForestMode "WinThreshold" `
+    -DomainMode "WinThreshold" `
+    -InstallDns:$true `
+    -SafeModeAdministratorPassword $SecurePassword `
+    -Force:$true
+
+#############################################
+# VÉRIFICATION FINALE DES INSTALLATIONS
+#############################################
+
+# Vérification des rôles et fonctionnalités installés
+Write-Host "### Vérification des rôles et fonctionnalités installés ###" -ForegroundColor Green
+foreach ($feature in $features) {
+    $status = Get-WindowsFeature -Name $feature
+    Write-Host "$($status.DisplayName): $($status.InstallState)" -ForegroundColor $(if ($status.InstallState -eq "Installed") {"Green"} else {"Red"})
+}
+
+# Vérification des services critiques
+Write-Host "`n### État des services critiques ###" -ForegroundColor Green
+$criticalServices = @("ADWS", "NTDS", "DNS", "Netlogon", "DFS", "Spooler", "WDSServer", "DHCPServer")
+Get-Service $criticalServices | Format-Table Name, Status, DisplayName
+
+# Vérification de l'AD DS
+Write-Host "`n### Information sur la forêt et le domaine ###" -ForegroundColor Green
+Get-ADForest
+Get-ADDomain
+repadmin /replsummary
+
+
+
